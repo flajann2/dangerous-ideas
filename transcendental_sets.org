@@ -1,0 +1,20 @@
+* Transcendental Sets (Hypercells)                                 :TOC_5_gh:
+  - [[#synopsis][Synopsis]]
+  - [[#history][History]]
+  - [[#in-depth][In Depth]]
+    - [[#realms-and-hierarchy][Realms and Hierarchy]]
+      - [[#emergence][Emergence]]
+    - [[#temporal-relationships][Temporal Relationships]]
+    - [[#ingress-and-egress][Ingress and Egress]]
+      - [[#costs-of-transitions][Costs of Transitions]]
+
+** Synopsis
+   Transcendental Sets is something I've been chewing on for the past 
+   two decades. More on this later.
+** History
+** In Depth  
+*** Realms and Hierarchy
+**** Emergence
+*** Temporal Relationships
+*** Ingress and Egress
+**** Costs of Transitions

@@ -1,0 +1,48 @@
+* Sparse Systems and Processes                                    :TOC_5_gh:
+  - [[#synopsis][Synopsis]]
+  - [[#intro][Intro]]
+  - [[#possible-tie-in-with-hypercells][Possible tie-in with Hypercells]]
+
+** Synopsis
+   The neocortex uses sparse representations extensively to function. Upon some reflection,
+   it occurred to me that there are many other sparse systems that arise in nature everywhere,
+   including evolution.
+
+   Indeed, I think Sparse underlies a lot about how our universe and everything 
+   in it works.
+
+   I need to make much more cogitation about this.
+
+** Intro
+   In the brain, the function is predicated entirely on sparse activation and
+   other sparse aspects as well. This provides it a high level of robustness
+   and resilience to loss of individual neurons. It is a remarkably stable
+   system.
+
+   In other systems, you also note sparsity. For example, the
+   number of successful combinations of DNA out of the entire space
+   that can produce a living system is small, very small. Evolution
+   selects and travels through this space.
+
+   Also, Evolution itself is a sparse system. Many branches of evolution
+   simply die out. Only a few remain.
+
+   The presence of baryonic matter in our universe is also a sparse 
+   system. The number of planets that can support life is, as far as we
+   can tell, small. And out of those, the number that may have intelligent
+   life are even smaller. Much smaller, however we define "intelligent life".
+
+   Sturgeon's law states that "90% of everything is crud". And this is
+   generally true. Just take a peak at the media. Or people in general.
+
+   Sparsity is all around us in many and sundry ways. A sort of a "fact
+   of life", to entertain that platitude a bit. But there is something
+   that I consider profound about it. The brain would not function
+   properly or at all without sparsity. 2% of your neurons are firing at
+   any given time. And when that percentage raises to be much higher than
+   that, we call that "having a seizure". 
+** Possible tie-in with Hypercells
+   I have yet to give any serious thought about the implication 
+   of this with Hypercells, or Transcendental Sets, but I think
+   there are deep connections, especially from the temporal aspect.
+

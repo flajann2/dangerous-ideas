@@ -1,0 +1,115 @@
+* The Dangerous Ideas Repo                                         :TOC_5_gh:
+  - [[#dangerous-ideas-links][Dangerous Ideas Links]]
+  - [[#intro][Intro]]
+  - [[#why-am-i-doing-this][Why am I doing this]]
+  - [[#who-am-i][Who am I?]]
+    - [[#origins-of-me][Origins of me]]
+    - [[#what-do-i-want-to-be-when-i-grow-up][What do I want to be when I grow up?]]
+    - [[#the-world-as-i-see-it][The World as I see it.]]
+      - [[#the-state-of-human-affairs][The State of Human affairs]]
+      - [[#religion][Religion]]
+      - [[#science][Science]]
+      - [[#evolution][Evolution]]
+      - [[#artificial-general-intelligence][Artificial General Intelligence]]
+      - [[#climate-change][Climate Change]]
+      - [[#politics][Politics]]
+        - [[#gender-politics][Gender Politics]]
+        - [[#leftists][Leftists]]
+        - [[#conservatives][Conservatives]]
+        - [[#libertarians][Libertarians]]
+      - [[#the-future-of-mankind][The Future of Mankind]]
+    - [[#einstein-as-i-see-him][Einstein, as I see him]]
+  - [[#who-are-you][Who are you?]]
+  - [[#closing-thoughts][Closing thoughts]]
+
+** Dangerous Ideas Links
+   | Subjects                                                                                                    | Links                            |
+   |-------------------------------------------------------------------------------------------------------------+----------------------------------|
+   | Hypercells -- an exploration into a fundamental property of our universe and all that is in it.             | [[transcendental_sets.org]]          |
+   | Sparse Systems -- how this plays a key role into the structure of some systems and its implications for AGI | [[sparse_systems_and_processes.org]] |
+   | Fractopoly -- A system of automatic ruler-free self-evolving organization for management of the commons.     | [[fractopoly.org]]                   |
+** Intro
+   No code here. Just my thoughts, musings, etc.
+   on what I deem to be powerful ideas. You will either think me a genius or totally and utterly mad. There will be
+   nothing in between.
+
+   Note that currently there is not much content to see here, so move it along.
+   Well, I've made some basic outlines, but still not much
+   to see, so, again, move it along.
+** Why am I doing this
+   I have simply too many innovative ideas and thoughts that are scattered records-wise.
+   Many of them are scattered across audio notes over the decades. And also in various
+   social media sites. It is high time I gather them all and write them down in one place,
+   along with the formalization and attendant research that must be done. Also, this
+   serves as a type of authentication of these ideas, since it is on GitHub.
+   The history, at least from the point of these posts, are clear to see.
+
+** Who am I?
+   I am the Autodidactic Anarchistic Atheist. The most dangerous man alive.
+
+   Seriously, that is a paraphrase of the description of Neo from the first 
+   of The Matrix movies. I do see myself as a combination of Neo and Morpheus.
+   Assuming I am not just in the throes of my own delusions, there may be
+   more truth in my tag line than even I am willing to admit.
+
+   Or I may be nothing more than a cantankerous old fool, a crank. I like to think
+   of myself as "The Fool on a Hill". And kudos if you understand that reference.
+
+   You decide.
+*** Origins of me
+    I have been living in Germany for -- as of this writing -- 6 years. I came
+    here from the Boston area. I love it here in Germany and in Europe in general,
+    but no place is perfect. There's lots I don't like, but then there's lots 
+    I don't like about the US, and about everywhere else that I have been.
+
+    So it's a matter of picking one's poison.
+*** What do I want to be when I grow up?
+    Pinky and the Brain had some smart ideas! Something like that...
+*** The World as I see it.
+    Well, if you recognize that title, you have also probably guessed 
+    that I am a bit fan of Einstein, and you will be correct in that
+    regard.
+
+    My views are similar to his, for the most part. And I have yet
+    to visit his birth place in Ulm. But Ulm is not going anywhere, and
+    alas, there is not much to see there. It will be satisfying to 
+    just walk in the same place he did so long ago.
+
+    I have visited Princeton University, but I don't get the flavor of 
+    Einstein there. It's nothing like it was in Einstein's day.
+
+**** The State of Human affairs
+**** Religion
+**** Science
+**** Evolution
+**** Artificial General Intelligence
+**** Climate Change
+**** Politics
+***** Gender Politics
+      While I know that a small number of individuals suffer from gender dysphoria -- including
+      one of my kids, I am annoyed by the level of derisive politics that has arisen around
+      this issue world-wide -- or at least in America and Europe.
+
+      They are all hell-bent on murdering the language we speak daily. So far, I know this to be
+      the case in both the US and Germany. Murdering the German language is tricky, because nouns
+      have 3 genders -- masculine, feminine, and neuter. I don't know how far it will get.
+
+      There may be similar efforts in France, but I have no confirmation on this.
+***** Leftists
+      There is a difference between liberals and leftists.
+      - liberals - I disagree with what you have to say, but I will defend to the death your right to say it.
+      - leftists - I disagree with what you have to say, and I will do damage to you  if you don't shut up.
+        
+      Now, I myself am a libertarian (really, a Fractopolist, but that's a work in progress now). I do
+      consider that all have a right to their own opinions, but also a responsibility for not only the
+      actions they take, but also to make sure their opinions have merit, changing them if they do not.
+
+      These are unenforceable admonishments, of course. As long as all adhere to the Non-Aggression Principle,
+      as in never initiating aggression against another, you are free to think whatever you want and do whatever 
+      you want.
+***** Conservatives
+***** Libertarians
+**** The Future of Mankind
+*** Einstein, as I see him
+** Who are you?
+** Closing thoughts

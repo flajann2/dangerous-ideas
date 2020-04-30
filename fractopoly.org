@@ -1,0 +1,39 @@
+* Fractopoly                                                       :TOC_5_gh:
+  - [[#synopsis][Synopsis]]
+  - [[#in-depth][In Depth]]
+    - [[#what-is-fractopoly][What is Fractopoly?]]
+      - [[#well-what-is-it-really][Well, what is it, really?]]
+      - [[#separations-of-concerns][Separations of Concerns]]
+    - [[#the-tragedy-of-the-commons][The Tragedy of the Commons]]
+    - [[#the-tragedy-of-power-consolidation][The Tragedy of Power Consolidation]]
+    - [[#history-of-the-governments-of-the-world][History of the Governments of the world]]
+    - [[#current-state-of-affairs][Current state of affairs]]
+    - [[#where-do-we-go-from-here][Where do we go from here?]]
+      - [[#creation-of-the-infrastructure][Creation of the Infrastructure]]
+      - [[#gentle-introductions][Gentle introductions]]
+      - [[#course-corrections][Course Corrections]]
+      - [[#rendering-the-status-quo-obsolete][Rendering the Status Quo obsolete]]
+      - [[#full-on-fractopoly][Full on Fractopoly]]
+
+** Synopsis
+   Fractopoly is all about systems of hierarchical human organization 
+   that is completely voluntary, without necessitating the initiated use of
+   force or aggression in any way.
+
+   More on this later.
+
+** In Depth
+*** What is Fractopoly?
+**** Well, what is it, really?
+**** Separations of Concerns
+*** The Tragedy of the Commons
+*** The Tragedy of Power Consolidation
+*** History of the Governments of the world
+*** Current state of affairs
+*** Where do we go from here?
+**** Creation of the Infrastructure
+**** Gentle introductions
+**** Course Corrections
+**** Rendering the Status Quo obsolete
+**** Full on Fractopoly   
+     

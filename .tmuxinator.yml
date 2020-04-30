@@ -1,0 +1,16 @@
+# ~/.tmuxinator/media.yml
+
+name: media
+root: /development/dangerous-ideas
+
+startup_window: ideas
+
+windows:
+  - ideas:
+      layout: 8787,274x88,0,0{137x88,0,0,269,136x88,138,0[136x48,138,0,270,136x39,138,49,271]}
+      panes:
+        - coolprompt
+        - coolprompt
+        - coolprompt
+        - coolprompt
+        - coolprompt
