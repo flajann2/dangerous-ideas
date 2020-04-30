@@ -23,11 +23,11 @@
   - [[#closing-thoughts][Closing thoughts]]
 
 ** Dangerous Ideas Links
-   | Subjects                                                                                                    | Links                            |
-   |-------------------------------------------------------------------------------------------------------------+----------------------------------|
-   | Hypercells -- an exploration into a fundamental property of our universe and all that is in it.             | [[transcendental_sets.org]]          |
-   | Sparse Systems -- how this plays a key role into the structure of some systems and its implications for AGI | [[sparse_systems_and_processes.org]] |
-   | Fractopoly -- A system of automatic ruler-free self-evolving organization for management of the commons.     | [[fractopoly.org]]                   |
+   | Subjects                                                                                                    | Links                            | Status |
+   |-------------------------------------------------------------------------------------------------------------+----------------------------------+--------|
+   | Hypercells -- an exploration into a fundamental property of our universe and all that is in it.             | [[transcendental_sets.org]]          | WIP    |
+   | Sparse Systems -- how this plays a key role into the structure of some systems and its implications for AGI | [[sparse_systems_and_processes.org]] | WIP    |
+   | Fractopoly -- A system of automatic ruler-free self-evolving organization for management of the commons.    | [[fractopoly.org]]                   | WIP    |
 ** Intro
    No code here. Just my thoughts, musings, etc.
    on what I deem to be powerful ideas. You will either think me a genius or totally and utterly mad. There will be
