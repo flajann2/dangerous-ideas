@@ -1,4 +1,4 @@
-* Transcendental Sets (Hypercells)                                 :TOC_5_gh:
+* Transcendental Sets (Hypercells)                            :TOC_5_gh:
   - [[#synopsis][Synopsis]]
   - [[#history][History]]
   - [[#in-depth][In Depth]]

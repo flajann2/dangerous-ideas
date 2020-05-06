@@ -20,6 +20,8 @@
       - [[#the-future-of-mankind][The Future of Mankind]]
     - [[#einstein-as-i-see-him][Einstein, as I see him]]
   - [[#who-are-you][Who are you?]]
+  - [[#some-new-ideas-to-explore][Some new ideas to explore]]
+    - [[#come-up-with-an-alternative-for-scrum--agile-that-will-allow-introverts-be-introverts][Come up with an alternative for Scrum / Agile that will allow introverts be introverts]]
   - [[#closing-thoughts][Closing thoughts]]
 
 ** Dangerous Ideas Links
@@ -29,13 +31,13 @@
    | Sparse Systems -- how this plays a key role into the structure of some systems and its implications for AGI | [[sparse_systems_and_processes.org]] | WIP    |
    | Fractopoly -- A system of automatic ruler-free self-evolving organization for management of the commons.    | [[fractopoly.org]]                   | WIP    |
 ** Intro
-   No code here. Just my thoughts, musings, etc.
-   on what I deem to be powerful ideas. You will either think me a genius or totally and utterly mad. There will be
-   nothing in between.
+   No code here. Just my thoughts, musings, etc. on what I deem to be powerful ideas.
+   You will either think me a genius or totally and utterly mad. There will be
+   nothing in between, I think.
 
-   Note that currently there is not much content to see here, so move it along.
-   Well, I've made some basic outlines, but still not much
-   to see, so, again, move it along.
+   Note that I am just getting started here, so many things will be blank or
+   not filled in yet. This is an ongoing process which I only just begun.
+
 ** Why am I doing this
    I have simply too many innovative ideas and thoughts that are scattered records-wise.
    Many of them are scattered across audio notes over the decades. And also in various
@@ -112,4 +114,38 @@
 **** The Future of Mankind
 *** Einstein, as I see him
 ** Who are you?
+** Some new ideas to explore
+   These new ideas will evenutally be placed into their own seperate .org
+   files as they mature and grow.
+*** Come up with an alternative for Scrum / Agile that will allow introverts be introverts
+    I think this is a real issue, because most software developers tend
+    to be introverted anyway. Not everone is a leader. Not everyone wants
+    to be so interactive with others all the time. And yet, how do we allow
+    for this, and at the same time allow the introvert to be the most productive?
+    
+    For myself, who had to learn extroversion as an introvert, the daily
+    standup can be very disruptive to my flow. And yet, most places require you to do
+    the daily standups. This might be useful, maybe, to junior developers, but not
+    seasoned professionals like myself. And is it really that useful to them?
+
+    Why not just have an internal group chat system setup -- and many places already have
+    this in place anyway -- where individuals can come forth with problems, and even
+    report progress AT THE END OF THE DAY?
+
+    That's another thing -- normally, standups are held in the morning. So whatever progress
+    I made the prior day I may have forgotten about by morning, and I usually forget an important
+    detail or two. So perhaps doing it all online with Slack or Rocket Chat would be
+    much better.
+
+    I think that the CoVID-19 scare may have forced some of this into place, but will things
+    go back to "business as usual" when this crisis is over? That remains to be seen.
+
+    But I deem that the entire Scrum / Agile methodology needs a bit of reworking to
+    make the work environment better for introverts, and everyone in general.
+
 ** Closing thoughts
+   This is my attempts to solidify the many thoughs, notions, flashes of inspirations, 
+   and the like that goes on in my head all the time. This will always be a "work 
+   in progress" because none of this is ever expected to be static or completed.
+   Onward and upward!
+
