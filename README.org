@@ -22,6 +22,7 @@
   - [[#who-are-you][Who are you?]]
   - [[#some-new-ideas-to-explore][Some new ideas to explore]]
     - [[#come-up-with-an-alternative-for-scrum--agile-that-will-allow-introverts-be-introverts][Come up with an alternative for Scrum / Agile that will allow introverts be introverts]]
+    - [[#a-principle-of-work-challenge-for-the-software-engineer][A principle of work challenge for the Software Engineer]]
   - [[#closing-thoughts][Closing thoughts]]
 
 ** Dangerous Ideas Links
@@ -115,7 +116,7 @@
 *** Einstein, as I see him
 ** Who are you?
 ** Some new ideas to explore
-   These new ideas will evenutally be placed into their own seperate .org
+   These new ideas will eventually be placed into their own separate .org
    files as they mature and grow.
 *** Come up with an alternative for Scrum / Agile that will allow introverts be introverts
     I think this is a real issue, because most software developers tend
@@ -143,6 +144,47 @@
     But I deem that the entire Scrum / Agile methodology needs a bit of reworking to
     make the work environment better for introverts, and everyone in general.
 
+*** A principle of work challenge for the Software Engineer
+    A long time ago, I came up with the following aphorism:
+    
+    If you are good enough to do the job,
+    you are not dumb enough to do the job.
+
+    Many occupations fall under this rubric. For example, "tech" support. If
+    you are actually smart enough to properly do tech support, you are smart enough
+    to find better jobs that will pay you far more for your knowledge. Plus, you
+    would probably be bored at just doing tech support.
+    
+    So what happens? They hire flunkies and give them scripts to follow. Really dain-brammaged
+    mind-numbing scripts, such as:
+
+    1. Is your computer plugged in?
+    2. Is your computer turned on?
+    3. Did you delete and reinstall the software / clear your cookie cache?
+
+    And once you jump though those silly hoops that you have already covered,
+    then and only then do you progress to a "tier 2" service. Oh, after you are
+    on hold for 30 minutes!!!!
+
+    But I digress.
+
+    Now, here is a similar principle for software developers and the level of 
+    jobs available. You see, the firm will structure things in such a way that they
+    can get away with hiring the weakest and cheapest candidates. They don't
+    want do something that would require a PhD level of knowledge for the most part.
+
+    Of course, sometimes they have no choice. Like, for instance, creating an
+    automonous driving system. But even in this case, they will hire just a few 
+    super-experts, and replicate that system to everyone else, and the pre-canned 
+    system will only require those of lesser expertise to basically "glue" it in to
+    whatever specific hardware there is at hand.
+
+    Similar situation with machine learning. The super-experts will develop all the
+    machine learning algorithms in C or C++, and then do Python bindings so any old
+    dummy can actually use the libraries / frameworks.
+    
+    I am not sure what to call this yet. But I am sure I will think fo something.
+       
 ** Closing thoughts
    This is my attempts to solidify the many thoughs, notions, flashes of inspirations, 
    and the like that goes on in my head all the time. This will always be a "work 

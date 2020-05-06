@@ -1,6 +1,6 @@
 # ~/.tmuxinator/media.yml
 
-name: media
+name: dangerous-ideas
 root: /development/dangerous-ideas
 
 startup_window: ideas
