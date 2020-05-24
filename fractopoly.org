@@ -1,5 +1,12 @@
 * Fractopoly                                                       :TOC_5_gh:
-  - [[#synopsis][Synopsis]]
+  - [[#rationale][Rationale]]
+    - [[#different-forms-of-government-thats-at-work-today][Different forms of government that's at work today]]
+      - [[#dictatorships][Dictatorships]]
+      - [[#communism][Communism]]
+      - [[#socialcism][Socialcism]]
+      - [[#captialism][Captialism]]
+      - [[#hybird-systems][Hybird systems]]
+    - [[#a-new-possible-direction][A new possible direction]]
   - [[#in-depth][In Depth]]
     - [[#what-is-fractopoly][What is Fractopoly?]]
       - [[#well-what-is-it-really][Well, what is it, really?]]
@@ -15,12 +22,113 @@
       - [[#rendering-the-status-quo-obsolete][Rendering the Status Quo obsolete]]
       - [[#full-on-fractopoly][Full on Fractopoly]]
 
-** Synopsis
+** Rationale
    Fractopoly is all about systems of hierarchical human organization 
    that is completely voluntary, without necessitating the initiated use of
    force or aggression in any way.
 
-   More on this later.
+   Human beings have a high propensity for self-organization, and this has always been
+   true throughout history. However, as humans began to live and work in larger 
+   and larger groups, with ever esclating complications with their relationships with
+   trade, ownership, and the commons, which necessates complex interation profiles,
+   a low-resolutiion management structure arose.
+
+   That low-resolution management structure is what we call "government" today. It, by design,
+   places a lot of power and authority into the hands of a few. The few are expected to rule
+   in favor of the people at large, but, as we all know, "power corrupts, and absolute 
+   power corrupts absolutely."
+
+   Sometimes you may be lucky to get a benevelovent dictator to rule over you. But
+   the order of the day is that the dictator only seeks his (or her -- and from now on, "his" shall be
+   used in the epicene) own best interests at the expense of many others.
+
+   In more recent times, the dictator has been replaced by a siting body politic, a "representational" 
+   form of government. So now, instead of having one ruler, you have many. And even though you do
+   get to elect some, it is usually from a small pool of choices -- 2 in the US, a few more in
+   other government structures such as Germany's -- and do they really seek the best interests of those
+   that elected them? Or do they all seek their own interests, and pay lip service to your 
+   interests around election time?
+
+   Though the power is divided up somewhat, it is still open to massive levels of corruption. Why? Because:
+   * They control commons that they have little to no skin in the game.
+   * They have so many issues to deal with that the electorate can't manage to pay attention to it all.
+   * The elected representatives themselves prefer a low-resolution take on things, precisely because
+     they do not have the time nor the desire to delve into the deep details of every issue that is
+     before them.
+   * And as such they allow the special interests to "fill in the gaps" for them.
+   * And I think we can agree that the special interests are only interested in what benefits them,
+     not what benefits you.
+
+   And so, that's the way it is. Our institutions have become a bit better than a straight-up
+   dictatorship, but it could be a lot better.
+*** Different forms of government that's at work today
+**** Dictatorships
+**** Communism
+**** Socialcism
+**** Captialism
+**** Hybird systems
+*** A new possible direction
+    We develop in stages, usually gradual, puncuated by an occasional quantum leap forward.
+    Mechanical printing, for example, initially appeared in China in the 6th century. Basically, these 
+    early presses entailed a matrix of engravings that was pressed upon sheets of paper. So, the
+    speed of this over having to handwrite each page enabled more to be exposed to the written word.
+
+    In 1455 or therabouts, Gutenberg made further improvements, and ran off 180 copies of the Gutenberg
+    Bible. More than just the priests now had access to this infomrmation, and could decide for themselves
+    what it all meant. As more things were printed this way, the more these texts could be made available
+    to ordinary people. New emphasis on reading quickly followed. And many disruptive changes followed.
+
+    In the 18th century, the Industrial Revolution took hold, and thus began a major shift in the
+    ecomonic well being of many people. It was not without its problems, of course, but many more options
+    were made available. You did not have to work the farm anymore if you did not want. You could go to 
+    the city and get a factory job. Mass production brought down the price of goods, created new goods that din't
+    exist before, and generally made life easier for everyone.
+
+    Then we had the communication revolution, which began with the telegraph, spear-headed by Samuel Morse
+    and others. The Morse Code was invented, and telegraph wires went up everywhere, because now,
+    communication could take place in minutes instead of weeks and months.
+
+    Then the telephone was developed. Then radio. TV... with each, we all became more connected as a species.
+    
+    But there was a problem with these new forms of communication. It proferred either a one-to-one channel,
+    or a one-to-many. So those who controlled the channels developed power over everyone else, who
+    could only be receivers.
+
+    And now, enter the late 20th century, with the development of the Internet. This is a many-to-many 
+    technology, allowing anyone to communicate with a vast number of people. Well, sort-of. Eventually
+    the social media infrastructure would arise, as well as bandwidth and compression rates creating
+    yet another revolution within the revolution.
+    
+    So today, anyone can "broacast" video to many, as for example YouTube and live streaming. Or
+    you can create video that endures for years "for free" for others to download and see.
+
+    There is a lot of high-quality content on YouTube and others. Alas, there is even more garbage.
+    We simply have to be smart enough about what's good and what's bogus. But the power is now in
+    our hands.
+
+    But now, where does that leaves the governments of the world today? And where will we go tomorrow?
+
+    The next stage in the evolution of the human species has become tantalizingly possible. We can,
+    with the proper infrastructure, compliment what government does. With further improvements, we can
+    make governments less relevant. And eventually, we can eliminate governments completely.
+
+    How? By managing our own commons.
+
+    Today, nearly everyone carry around their own mobile hyperconnection to the Internet. Imagine, 
+    if you will, the right type of software that would allow you to check up on the detailed
+    goings on of your local water company, say. Perhaps if the quality of water drops, you can
+    directly participate in improving it.
+
+    Or the schools that teach your kids. Imagine having direct day-to-day oversight and even
+    participation in improving that process.
+
+    The same goes for the roads, all utilities, insurance, everything. You can either directly 
+    participate, or come to a consensus on whom is best qualified to participate. And as long
+    as that person or persons does, all is good. If there's a problem, you can become directly
+    involved, along with every one else that shares the common. You can make rapid changes
+    to improve things, or nudge out of the way those that are incompetent. And more.
+
+    This is Fractopoly.
 
 ** In Depth
 *** What is Fractopoly?
