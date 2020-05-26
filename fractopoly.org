@@ -16,6 +16,7 @@
     - [[#history-of-the-governments-of-the-world][History of the Governments of the world]]
     - [[#current-state-of-affairs][Current state of affairs]]
     - [[#where-do-we-go-from-here][Where do we go from here?]]
+      - [[#mathematical-analysis-of-fractopoly][Mathematical Analysis of Fractopoly]]
       - [[#creation-of-the-infrastructure][Creation of the Infrastructure]]
       - [[#gentle-introductions][Gentle introductions]]
       - [[#course-corrections][Course Corrections]]
@@ -139,9 +140,10 @@
 *** History of the Governments of the world
 *** Current state of affairs
 *** Where do we go from here?
+**** Mathematical Analysis of Fractopoly
 **** Creation of the Infrastructure
 **** Gentle introductions
 **** Course Corrections
 **** Rendering the Status Quo obsolete
-**** Full on Fractopoly   
+**** Full on Fractopoly
      
