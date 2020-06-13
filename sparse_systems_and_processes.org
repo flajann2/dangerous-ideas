@@ -2,6 +2,7 @@
   - [[#synopsis][Synopsis]]
   - [[#intro][Intro]]
   - [[#possible-tie-in-with-hypercells][Possible tie-in with Hypercells]]
+  - [[#theory--hypothesis][Theory / Hypothesis]]
 
 ** Synopsis
    The neocortex uses sparse representations extensively to function. Upon some reflection,
@@ -45,4 +46,11 @@
    I have yet to give any serious thought about the implication 
    of this with Hypercells, or Transcendental Sets, but I think
    there are deep connections, especially from the temporal aspect.
+
+** Theory / Hypothesis
+   Natually evolving systems will use a lot of sparsity at the chaotic edge
+   of chaos and order to generate rich complexity.
+
+   So far, biology is a prime example of this, the only one we know of that is
+   natually occuring.
 
