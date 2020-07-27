@@ -16,11 +16,13 @@
     - [[#history-of-the-governments-of-the-world][History of the Governments of the world]]
     - [[#current-state-of-affairs][Current state of affairs]]
     - [[#where-do-we-go-from-here][Where do we go from here?]]
+      - [[#mathematical-analysis-of-fractopoly][Mathematical Analysis of Fractopoly]]
       - [[#creation-of-the-infrastructure][Creation of the Infrastructure]]
       - [[#gentle-introductions][Gentle introductions]]
       - [[#course-corrections][Course Corrections]]
       - [[#rendering-the-status-quo-obsolete][Rendering the Status Quo obsolete]]
       - [[#full-on-fractopoly][Full on Fractopoly]]
+  - [[#conclusions][Conclusions]]
 
 ** Rationale
    Fractopoly is all about systems of hierarchical human organization 
@@ -139,9 +141,44 @@
 *** History of the Governments of the world
 *** Current state of affairs
 *** Where do we go from here?
+**** Mathematical Analysis of Fractopoly
 **** Creation of the Infrastructure
 **** Gentle introductions
 **** Course Corrections
 **** Rendering the Status Quo obsolete
-**** Full on Fractopoly   
-     
+**** Full on Fractopoly
+** Conclusions
+   Fractopoly must be a global effort for its full
+   and ultimate conclusions to be realised. It is
+   expected (and planned for) that much of the
+   status quo might put up a fuss, once they realise 
+   what it truly going on.
+
+   Fractopoly must be so throughly entrenced by that
+   time that there will not much for the status quo to
+   do other than embrace it. And in doing so, Fractopoly
+   will be complete.
+
+   There are so many pitfalls with this that we must do 
+   an extensive simulation to glean and ascertain what 
+   "course changes" that will need to occur.
+
+   This could easily span many generations. It is not an
+   overnight solution. Your grandkid's grandkids may be
+   the first to realise the full power of Fractopoly. Or
+   it may take even longer.
+
+   If we are very lucky, we may see an eponential growth
+   curve that will greatly curtail the time involve here.
+   However, I am suspicious of anything that smells of
+   a "quick fix". Witness the mess that was the French Revolution,
+   for example. It was very bloody.
+
+   I do NOT want any blood being shed here. That in antithetical
+   to the principles of Fractopoly, which is rooted in NAP. It
+   must proceed in a complete voluntary manner, and not involve
+   the initiation of force or violece at all.
+
+   So be paitent, and let's work on getting the germ of 
+   this idea in place. The rest will tend to itself in
+   the fullness of time.
