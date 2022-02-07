@@ -7,6 +7,7 @@
     - [[#temporal-relationships][Temporal Relationships]]
     - [[#ingress-and-egress][Ingress and Egress]]
       - [[#costs-of-transitions][Costs of Transitions]]
+    - [[#sparsity][Sparsity]]
 
 ** Synopsis
    Transcendental Sets is something I've been chewing on for the past 
@@ -18,3 +19,8 @@
 *** Temporal Relationships
 *** Ingress and Egress
 **** Costs of Transitions
+*** Sparsity
+    I note that there is sparsity in space and sparsity in the brain. I think this
+    is important to Trsandental Sets. I do have a small write-up on sparse systems,
+    so we should probably consult that for some ideas.
+
