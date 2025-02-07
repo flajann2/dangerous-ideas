@@ -11,10 +11,15 @@
     - [[#what-is-fractopoly][What is Fractopoly?]]
       - [[#well-what-is-it-really][Well, what is it, really?]]
       - [[#separations-of-concerns][Separations of Concerns]]
+    - [[#the-power-of-the-individual-as-a-soverign][The Power of the Individual as a Soverign]]
+      - [[#the-individual][The Individual]]
+      - [[#the-group-and-the-dymamical-interplay-with-the-individual][The Group and the Dymamical Interplay with the Individual]]
+      - [[#of-clans-nations-families-and-ethnicies][Of clans, nations, families, and ethnicies]]
     - [[#the-tragedy-of-the-commons][The Tragedy of the Commons]]
     - [[#the-tragedy-of-power-consolidation][The Tragedy of Power Consolidation]]
     - [[#history-of-the-governments-of-the-world][History of the Governments of the world]]
     - [[#current-state-of-affairs][Current state of affairs]]
+    - [[#the-transitional-plan][The Transitional Plan]]
     - [[#where-do-we-go-from-here][Where do we go from here?]]
       - [[#mathematical-analysis-of-fractopoly][Mathematical Analysis of Fractopoly]]
       - [[#creation-of-the-infrastructure][Creation of the Infrastructure]]
@@ -136,10 +141,15 @@
 *** What is Fractopoly?
 **** Well, what is it, really?
 **** Separations of Concerns
+*** The Power of the Individual as a Soverign
+**** The Individual
+**** The Group and the Dymamical Interplay with the Individual
+**** Of clans, nations, families, and ethnicies
 *** The Tragedy of the Commons
 *** The Tragedy of Power Consolidation
 *** History of the Governments of the world
 *** Current state of affairs
+*** The Transitional Plan
 *** Where do we go from here?
 **** Mathematical Analysis of Fractopoly
 **** Creation of the Infrastructure
